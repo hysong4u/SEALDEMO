@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/songhayeon/Desktop/송하연/SEALDEMO/build",
+  "command": "/usr/bin/clang++  -isystem /usr/local/include/SEAL-4.1 -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -mmacosx-version-min=13.5 -o CMakeFiles/sealdemo.dir/sealdemo.cpp.o -c /Users/songhayeon/Desktop/송하연/SEALDEMO/sealdemo.cpp",
+  "file": "/Users/songhayeon/Desktop/송하연/SEALDEMO/sealdemo.cpp",
+  "output": "CMakeFiles/sealdemo.dir/sealdemo.cpp.o"
+}
+]
